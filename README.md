@@ -1,4 +1,4 @@
-#VM Using VirtualBox and Bagrant
+#VM Using VirtualBox and Vagrant
 
 An alternate way to carry out the ALX task is to use a virtual machine instead of your sandbox
 
